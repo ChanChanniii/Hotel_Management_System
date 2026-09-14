@@ -1,0 +1,1 @@
+BOOKED | Guest: Alice | Room: 101 | Nights: 3 | Total: $180
